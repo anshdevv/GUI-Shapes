@@ -1,0 +1,27 @@
+Triangle
+point1 :133,391
+Point 2:193,419
+point3:162,450
+Color :-10709945
+Triangle
+point1 :409,205
+Point 2:500,229
+point3:459,332
+Color :-10709945
+Rectangle
+width :150
+height :73
+point centre: 225,288
+Color :-10709945
+Circle
+size :43
+Point :282,156
+Color :-10709945
+Circle
+size :56
+Point :175,173
+Color :-10709945
+Circle
+size :113
+Point :60,96
+Color :-10709945
